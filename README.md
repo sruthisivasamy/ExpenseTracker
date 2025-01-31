@@ -2,12 +2,12 @@ React-based Expense Tracker app with real-time balance updates and transaction m
 
 Commands:
 
-# npm install
+#### npm install
 
-# Run on http://localhost:3000
+#### Run on http://localhost:3000
 
 npm start
 
-# Build for prod
+#### Build for prod
 
 npm run build
